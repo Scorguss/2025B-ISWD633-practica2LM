@@ -19,17 +19,20 @@ eliminar y volver a hacer:
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 # COMPLETAR
+<img width="2127" height="313" alt="image" src="https://github.com/user-attachments/assets/c7e3fa38-0ce3-4313-9ee7-d1f29880a207" />
 
 La figura presenta el esquema creado en donde los puertos son:
-- a: (completar con el valor)
-- b: (completar con el valor)
-- c: (completar con el valor)
+- a: (8080)
+- b: (80)
+- c: (5432)
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
 # COMPLETAR CON UNA CAPTURA DEL LOGIN
+<img width="2268" height="1079" alt="image" src="https://github.com/user-attachments/assets/ce20a06c-6f82-4d8c-abfe-490f9c425abd" />
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
 ## Desde el servidor postgresl
